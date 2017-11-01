@@ -89,8 +89,8 @@ public class MainActivity extends AppCompatActivity {
                 String lastName = lastNameET.getText().toString();
                 int age = Integer.parseInt(ageET.getText().toString());
                 dbHandler.addFriend(name, lastName, age);
-                //Toast.makeText(MainActivity.this, "enter " + name, Toast.LENGTH_SHORT).show();
                 Toast.makeText(MainActivity.this, "enter " + name, Toast.LENGTH_SHORT).show();
+                //Toast.makeText(MainActivity.this, "enter " + name, Toast.LENGTH_SHORT).show();
             }
         });
 
