@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Myfriend</string>
+    <string name="_name">name</string>
+    <string name="lastName">last name</string>
+    <string name="age">age</string>
+    <string name="insert">insert</string>
+    <string name="_select">select</string>
+
+</resources>
